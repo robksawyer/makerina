@@ -4,3 +4,4 @@
 /app/Config/.env
 /vendor
 /Plugin
+/tmp
