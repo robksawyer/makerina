@@ -1,0 +1,54 @@
+2014-06-12 02:01:18 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /~robsawyer/makerina/webroot/
+Stack Trace:
+#0 /Users/robsawyer/Sites/makerina/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-12 04:22:34 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /~robsawyer/makerina/webroot/
+Stack Trace:
+#0 /Users/robsawyer/Sites/makerina/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-12 04:25:19 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /~robsawyer/makerina/webroot/
+Stack Trace:
+#0 /Users/robsawyer/Sites/makerina/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-12 04:25:21 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /~robsawyer/makerina/webroot/
+Stack Trace:
+#0 /Users/robsawyer/Sites/makerina/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-12 04:31:35 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /~robsawyer/makerina/webroot/
+Stack Trace:
+#0 /Users/robsawyer/Sites/makerina/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-12 04:31:36 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /~robsawyer/makerina/webroot/
+Stack Trace:
+#0 /Users/robsawyer/Sites/makerina/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
